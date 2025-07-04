@@ -1,0 +1,38 @@
+site_name: 3D Carousel Inventory Asset Documentation
+site_url: https://mydomain.org/mysite
+theme:
+  palette: 
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+
+nav:
+  - Overview: overview.md
+  - Features: features.md
+  - Components:
+      - Components Overview: how-to-use/components.md
+      - Properties: how-to-use/property.md
+  - Enumeration: how-to-use/enumeration.md
+  - Data Asset: how-to-use/dataasset.md
+  - Data Table: how-to-use/datatable.md
+  - Collectable: how-to-use/collectable.md
+  - Considerations: how-to-use/considerations.md
