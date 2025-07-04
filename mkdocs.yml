@@ -24,7 +24,7 @@ theme:
     - navigation.expand
 
 nav:
-  - Overview: overview.md
+  - Overview: index.md
   - Features: features.md
   - Components:
       - Components Overview: how-to-use/components.md
