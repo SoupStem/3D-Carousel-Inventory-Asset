@@ -1,20 +1,18 @@
 site_name: 3D Carousel Inventory Asset Documentation
-site_url: https://mydomain.org/mysite
-theme:
-  palette: 
+site_url: https://soupstem.github.io/3D-Carousel-Inventory-Asset/
+use_directory_urls: false
 
-    # Palette toggle for dark mode
+theme:
+  name: material
+  palette: 
     - scheme: slate
       toggle:
         icon: material/brightness-7 
         name: Switch to light mode
-
-    # Palette toggle for light mode
     - scheme: default
       toggle:
         icon: material/brightness-4
         name: Switch to dark mode
-  name: material
   features:
     - navigation.instant
     - navigation.instant.progress
