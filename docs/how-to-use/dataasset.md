@@ -1,4 +1,4 @@
-## 4 - Still in the Core folder, locate the DataAsset folder. You should create a data asset derived from BP_CI_PDA_Item for each item in your game and adjust the settings for each one.
+## 4 - Still in the Core folder, locate the DataAsset folder. You should create a data asset derived from PDA_CI_Item for each item in your game and adjust the settings for each one.
 
 ![alt text](../prints/docs-7.png)
 
