@@ -2,9 +2,9 @@ Features:
 
 100% Blueprint - All aspects of the inventory can be modified
 
-Feature 2
+BP Collectible actor Included - Add collectables to the level
 
-Feature 3
+Well structured asset - All assets separated by folders
 
 Number of Blueprints: 9
 
