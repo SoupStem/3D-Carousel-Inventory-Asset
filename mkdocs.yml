@@ -27,7 +27,7 @@ nav:
   - Overview: index.md
   - Features: features.md
   - Components:
-      - Components Overview: how-to-use/components.md
+      - Locate: how-to-use/components.md
       - Properties: how-to-use/property.md
   - Enumeration: how-to-use/enumeration.md
   - Data Asset: how-to-use/dataasset.md
